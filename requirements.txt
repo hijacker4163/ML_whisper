@@ -1,5 +1,5 @@
 flask
-ngrok
+pyngrok
 torch
 openai-whisper
 Gunicorn
