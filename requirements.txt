@@ -2,3 +2,4 @@ flask
 ngrok
 torch
 openai-whisper
+Gunicorn
